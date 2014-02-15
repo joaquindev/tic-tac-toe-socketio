@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # reveal.js [![Build Status](https://travis-ci.org/hakimel/reveal.js.png?branch=master)](https://travis-ci.org/hakimel/reveal.js)
 
 A framework for easily creating beautiful presentations using HTML. [Check out the live demo](http://lab.hakim.se/reveal-js/).
@@ -931,3 +932,9 @@ If you have personal support questions use [StackOverflow](http://stackoverflow.
 MIT licensed
 
 Copyright (C) 2013 Hakim El Hattab, http://hakim.se
+=======
+tic-tac-toe-socketio
+====================
+
+This repo contains an experiment on transcribing Nodejs/Expressjs/Jade/SocketIO example available at https://github.com/arvindr21/tictactoe
+>>>>>>> 67055de4f2c517bfafdbb9dd34bdd8338010e87f
